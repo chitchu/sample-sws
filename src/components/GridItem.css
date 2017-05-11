@@ -1,0 +1,47 @@
+.card {
+  background-color: #DFECE6;
+  box-shadow: 1px 1px 4px #232323;
+  width: 30%;
+  margin-bottom: 1rem;
+  border-radius: 0.1rem;
+}
+.card .wrapper {
+  padding: 0.6rem;
+}
+.card h2, .card p {
+  margin: 0;
+}
+
+.card h2, .card p {
+  color: #2D2D29;
+}
+
+.card .logo {
+  max-width: 2.4rem;
+  background-color: white;
+  margin-top: 0.2rem;
+  margin-left: 0.2rem;
+}
+
+.card .cover {
+  background-size: cover;
+  background-position: center;
+  height: 71px;
+  width: 100%;
+  margin-bottom: 1rem;
+  opacity: 0.4;
+  transition: opacity 0.4s ease-in-out;
+}
+
+
+.card .heading a, .card .heading a > h3 {
+  text-decoration: none;
+}
+
+.card:hover .cover  {
+  opacity: 1;
+}
+
+.card .meta {
+  padding-bottom: 1rem;
+}

@@ -1,0 +1,622 @@
+{
+  "data": [
+    {
+      "id": 874262,
+      "trading_item_id": 20164368,
+      "name": "Commonwealth Bank of Australia",
+      "slug": "commonwealth-bank-of-australia",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "CBA",
+      "unique_symbol": "ASX:CBA",
+      "primary_ticker": true,
+      "last_updated": 1494387005000,
+      "info": {
+        "data": {
+          "id": 37565395,
+          "description": "Commonwealth Bank of Australia provides integrated financial services in Australia, New Zealand, and internationally.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Banks",
+            "primary_id": 7010000,
+            "secondary_id": 7011000,
+            "tertiary_id": 7012000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 45129,
+          "address": "Tower 1, Sydney, 2000, Australia",
+          "year_founded": 1911,
+          "url": "http:\/\/www.commbank.com.au",
+          "logo_url": "\/ciqlogos\/874262.gif",
+          "cover_url": "\/build\/images\/cover_company_large\/874262.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/874262.jpg",
+          "ceo": {
+            "name": "Ian Narev",
+            "age": 50,
+            "url": "\/api\/person\/image\/52511116"
+          },
+          "legal_name": "Commonwealth Bank of Australia"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 2,
+          "income": 6,
+          "health": 6,
+          "past": 3,
+          "future": 1,
+          "total": 18
+        }
+      }
+    },
+    {
+      "id": 256654,
+      "trading_item_id": 20241564,
+      "name": "BHP Billiton",
+      "slug": "bhp-billiton",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "BHP",
+      "unique_symbol": "ASX:BHP",
+      "primary_ticker": true,
+      "last_updated": 1494386864000,
+      "info": {
+        "data": {
+          "id": 37564010,
+          "description": "BHP Billiton Limited discovers, acquires, develops, and markets natural resources worldwide.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Materials",
+            "primary_id": 2010000,
+            "secondary_id": 2050000,
+            "tertiary_id": 2052000
+          },
+          "fund": false,
+          "status": "Operating Subsidiary",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 65000,
+          "address": "BHP Billiton Centre, Melbourne, 3000, Australia",
+          "year_founded": 1851,
+          "url": "http:\/\/www.bhpbilliton.com",
+          "logo_url": "\/ciqlogos\/256654.gif",
+          "cover_url": "\/build\/images\/cover_company_large\/256654.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/256654.jpg",
+          "ceo": {
+            "name": "Andrew Mackenzie",
+            "age": 60,
+            "url": "\/api\/person\/image\/39130832"
+          },
+          "legal_name": "BHP Billiton Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 2,
+          "income": 4,
+          "health": 2,
+          "past": 1,
+          "future": 3,
+          "total": 12
+        }
+      }
+    },
+    {
+      "id": 393269,
+      "trading_item_id": 20241304,
+      "name": "Westpac Banking",
+      "slug": "westpac-banking",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "WBC",
+      "unique_symbol": "ASX:WBC",
+      "primary_ticker": true,
+      "last_updated": 1494386914000,
+      "info": {
+        "data": {
+          "id": 37564505,
+          "description": "Westpac Banking Corporation provides banking and financial services worldwide.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Banks",
+            "primary_id": 7010000,
+            "secondary_id": 7011000,
+            "tertiary_id": 7012000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 32190,
+          "address": "275 Kent Street, Sydney, 2000, Australia",
+          "year_founded": 1817,
+          "url": "http:\/\/www.westpac.com.au",
+          "logo_url": "\/ciqlogos\/393269.jpeg",
+          "cover_url": "\/build\/images\/cover_company_large\/393269.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/393269.jpg",
+          "ceo": {
+            "name": "Brian Hartzer",
+            "age": 50,
+            "url": "\/api\/person\/image\/215792093"
+          },
+          "legal_name": "Westpac Banking Corporation"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 2,
+          "income": 5,
+          "health": 5,
+          "past": 2,
+          "future": 1,
+          "total": 15
+        }
+      }
+    },
+    {
+      "id": 862503,
+      "trading_item_id": 20241843,
+      "name": "Rio Tinto",
+      "slug": "rio-tinto",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "RIO",
+      "unique_symbol": "ASX:RIO",
+      "primary_ticker": true,
+      "last_updated": 1494387013000,
+      "info": {
+        "data": {
+          "id": 37565472,
+          "description": "Rio Tinto Limited, a mining and metals company, focuses on finding, mining, processing, and marketing mineral resources primarily in Australia.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Materials",
+            "primary_id": 2010000,
+            "secondary_id": 2050000,
+            "tertiary_id": 2052000
+          },
+          "fund": false,
+          "status": "Operating Subsidiary",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 51018,
+          "address": "120 Collins Street, Melbourne, 3000, Australia",
+          "year_founded": 1959,
+          "url": "http:\/\/www.riotinto.com",
+          "logo_url": "\/ciqlogos\/862503.png",
+          "cover_url": "\/build\/images\/cover_company_large\/862503.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/862503.jpg",
+          "ceo": {
+            "name": "Jean-S\u00e9bastien Jacques",
+            "age": 46,
+            "url": "\/api\/person\/image\/228481092"
+          },
+          "legal_name": "Rio Tinto Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 4,
+          "income": 4,
+          "health": 3,
+          "past": 0,
+          "future": 2,
+          "total": 13
+        }
+      }
+    },
+    {
+      "id": 322495,
+      "trading_item_id": 20242718,
+      "name": "National Australia Bank",
+      "slug": "national-australia-bank",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "NAB",
+      "unique_symbol": "ASX:NAB",
+      "primary_ticker": true,
+      "last_updated": 1494386890000,
+      "info": {
+        "data": {
+          "id": 37564263,
+          "description": "National Australia Bank Limited provides financial services to individuals and businesses in Australia, Europe, New Zealand, the United States, and Asia.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Banks",
+            "primary_id": 7010000,
+            "secondary_id": 7011000,
+            "tertiary_id": 7012000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 34263,
+          "address": "800 Bourke Street, Docklands, 3008, Australia",
+          "year_founded": 1834,
+          "url": "http:\/\/www.nab.com.au",
+          "logo_url": "\/build\/images\/industryBlacksmall\/7010000.png",
+          "cover_url": "\/build\/images\/cover_company_large\/322495.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/322495.jpg",
+          "ceo": {
+            "name": "Andrew Thorburn",
+            "age": 52,
+            "url": "\/api\/person\/image\/12929994"
+          },
+          "legal_name": "National Australia Bank Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 3,
+          "income": 4,
+          "health": 6,
+          "past": 1,
+          "future": 2,
+          "total": 16
+        }
+      }
+    },
+    {
+      "id": 384998,
+      "trading_item_id": 20241281,
+      "name": "Australia and New Zealand Banking Group",
+      "slug": "australia-and-new-zealand-banking-group",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "ANZ",
+      "unique_symbol": "ASX:ANZ",
+      "primary_ticker": true,
+      "last_updated": 1494386937000,
+      "info": {
+        "data": {
+          "id": 37564744,
+          "description": "Australia and New Zealand Banking Group Limited, together with its subsidiaries, provides various banking and financial products and services to retail, high net worth, small business, corporate, commercial, and institutional customers.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Banks",
+            "primary_id": 7010000,
+            "secondary_id": 7011000,
+            "tertiary_id": 7012000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 46554,
+          "address": "ANZ Centre Melbourne, Melbourne, 3008, Australia",
+          "year_founded": 1835,
+          "url": "http:\/\/www.anz.com",
+          "logo_url": "\/ciqlogos\/384998.jpg",
+          "cover_url": "\/build\/images\/cover_company_large\/384998.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/384998.jpg",
+          "ceo": {
+            "name": "Shayne Elliott",
+            "age": 53,
+            "url": "\/api\/person\/image\/54019461"
+          },
+          "legal_name": "Australia and New Zealand Banking Group Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 4,
+          "income": 5,
+          "health": 6,
+          "past": 0,
+          "future": 1,
+          "total": 16
+        }
+      }
+    },
+    {
+      "id": 91774,
+      "trading_item_id": 20185098,
+      "name": "Telstra",
+      "slug": "telstra",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "TLS",
+      "unique_symbol": "ASX:TLS",
+      "primary_ticker": true,
+      "last_updated": 1494386950000,
+      "info": {
+        "data": {
+          "id": 37564876,
+          "description": "Telstra Corporation Limited provides telecommunications and information services to businesses, governments, communities, and individuals in Australia and internationally.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Telecom",
+            "primary_id": 9010000,
+            "secondary_id": 9020000,
+            "tertiary_id": 9022000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 33482,
+          "address": "242 Exhibition Street, Melbourne, 3000, Australia",
+          "year_founded": 1901,
+          "url": "http:\/\/www.telstra.com.au",
+          "logo_url": "\/ciqlogos\/91774.jpg",
+          "cover_url": "\/build\/images\/cover_company_large\/91774.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/91774.jpg",
+          "ceo": {
+            "name": "Andy Penn",
+            "age": 54,
+            "url": "\/api\/person\/image\/204694920"
+          },
+          "legal_name": "Telstra Corporation Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 2,
+          "income": 6,
+          "health": 3,
+          "past": 4,
+          "future": 2,
+          "total": 17
+        }
+      }
+    },
+    {
+      "id": 875660,
+      "trading_item_id": 20178495,
+      "name": "Wesfarmers",
+      "slug": "wesfarmers",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "WES",
+      "unique_symbol": "ASX:WES",
+      "primary_ticker": true,
+      "last_updated": 1494386908000,
+      "info": {
+        "data": {
+          "id": 37564447,
+          "description": "Wesfarmers Limited engages in the retail, coal mining and production, gas processing and distribution, industrial and safety product distribution, chemicals and fertilizers manufacturing, and investment businesses in Australia, New Zealand, the United Kingdom, and internationally.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Food and Staples Retailing",
+            "primary_id": 5010000,
+            "secondary_id": 5020000,
+            "tertiary_id": 5024000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 220000,
+          "address": "Wesfarmers House, Perth, 6000, Australia",
+          "year_founded": 1914,
+          "url": "http:\/\/www.wesfarmers.com.au",
+          "logo_url": "\/build\/images\/industryBlacksmall\/5010000.png",
+          "cover_url": "\/build\/images\/cover_company_large\/875660.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/875660.jpg",
+          "ceo": {
+            "name": "Richard Goyder",
+            "age": 57,
+            "url": "\/api\/person\/image\/3473984"
+          },
+          "legal_name": "Wesfarmers Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 2,
+          "income": 2,
+          "health": 4,
+          "past": 1,
+          "future": 2,
+          "total": 11
+        }
+      }
+    },
+    {
+      "id": 874687,
+      "trading_item_id": 20160703,
+      "name": "Woolworths",
+      "slug": "woolworths",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "WOW",
+      "unique_symbol": "ASX:WOW",
+      "primary_ticker": true,
+      "last_updated": 1494386949000,
+      "info": {
+        "data": {
+          "id": 37564864,
+          "description": "Woolworths Limited engages in the retail operations.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Food and Staples Retailing",
+            "primary_id": 5010000,
+            "secondary_id": 5020000,
+            "tertiary_id": 5023000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 205000,
+          "address": "1 Woolworths Way, Bella Vista, 2153, Australia",
+          "year_founded": 1924,
+          "url": "http:\/\/www.woolworthslimited.com.au",
+          "logo_url": "\/build\/images\/industryBlacksmall\/5010000.png",
+          "cover_url": "\/build\/images\/cover_company_large\/874687.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/874687.jpg",
+          "ceo": {
+            "name": "Brad Banducci",
+            "age": null,
+            "url": "\/api\/person\/image\/217656218"
+          },
+          "legal_name": "Woolworths Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 2,
+          "income": 1,
+          "health": 4,
+          "past": 1,
+          "future": 3,
+          "total": 11
+        }
+      }
+    },
+    {
+      "id": 875477,
+      "trading_item_id": 38677425,
+      "name": "Macquarie Group",
+      "slug": "macquarie-group",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "MQG",
+      "unique_symbol": "ASX:MQG",
+      "primary_ticker": true,
+      "last_updated": 1494386843000,
+      "info": {
+        "data": {
+          "id": 37563801,
+          "description": "Macquarie Group Limited provides diversified financial services in the Americas, Australia, Europe, the Middle East, Africa, and the Asia Pacific.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Financial Institutions",
+            "primary_id": 7100000,
+            "secondary_id": 7130000,
+            "tertiary_id": 7133000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 13597,
+          "address": "50 Martin Place, Sydney, 2000, Australia",
+          "year_founded": 1969,
+          "url": "http:\/\/www.macquarie.com.au",
+          "logo_url": "\/ciqlogos\/875477.gif",
+          "cover_url": "\/build\/images\/cover_company_large\/875477.jpg",
+          "cover_small_url": "\/build\/images\/cover_company\/875477.jpg",
+          "ceo": {
+            "name": "Nicholas Moore",
+            "age": 58,
+            "url": "\/api\/person\/image\/12647775"
+          },
+          "legal_name": "Macquarie Group Limited"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 3,
+          "income": 4,
+          "health": 4,
+          "past": 3,
+          "future": 1,
+          "total": 15
+        }
+      }
+    },
+    {
+      "id": 873963,
+      "trading_item_id": 20243213,
+      "name": "Woodside Petroleum",
+      "slug": "woodside-petroleum",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "WPL",
+      "unique_symbol": "ASX:WPL",
+      "primary_ticker": true,
+      "last_updated": 1494386874000,
+      "info": {
+        "data": {
+          "id": 37564113,
+          "description": "Woodside Petroleum Ltd, an independent oil and gas company, engages in the exploration, evaluation, development, production, marketing, and sale of hydrocarbons.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Energy",
+            "primary_id": 1010000,
+            "secondary_id": 1030000,
+            "tertiary_id": 1032000
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 3511,
+          "address": "Woodside Plaza, Perth, 6000, Australia",
+          "year_founded": 1954,
+          "url": "http:\/\/www.woodside.com.au",
+          "logo_url": "\/build\/images\/industryBlacksmall\/1010000.png",
+          "cover_url": "\/build\/images\/cover_tertiary_large\/1032000.jpg",
+          "cover_small_url": "\/build\/images\/cover_tertiary\/1032000.jpg",
+          "ceo": {
+            "name": "Peter Coleman",
+            "age": 57,
+            "url": "\/api\/person\/image\/133594767"
+          },
+          "legal_name": "Woodside Petroleum Ltd"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 4,
+          "income": 3,
+          "health": 4,
+          "past": 3,
+          "future": 2,
+          "total": 16
+        }
+      }
+    },
+    {
+      "id": 115627540,
+      "trading_item_id": 266782566,
+      "name": "Scentre Group",
+      "slug": "scentre-group",
+      "exchange_symbol": "ASX",
+      "ticker_symbol": "SCG",
+      "unique_symbol": "ASX:SCG",
+      "primary_ticker": true,
+      "last_updated": 1494386974000,
+      "info": {
+        "data": {
+          "id": 37565088,
+          "description": "Scentre Group is a real estate investment trust.",
+          "warning_type": 0,
+          "industry": {
+            "name": "Real Estate",
+            "primary_id": 7300000,
+            "secondary_id": 7311000,
+            "tertiary_id": 9551736
+          },
+          "fund": false,
+          "status": "Operating",
+          "currency": "AUD",
+          "country": "AU",
+          "employees": 0,
+          "address": "85 Castlereagh Street, Sydney, 2000, Australia",
+          "year_founded": null,
+          "url": "http:\/\/www.scentregroup.com",
+          "logo_url": "\/build\/images\/industryBlacksmall\/7300000.png",
+          "cover_url": "\/build\/images\/cover_tertiary_large\/9551736.jpg",
+          "cover_small_url": "\/build\/images\/cover_tertiary\/9551736.jpg",
+          "ceo": {
+            "name": "Peter Allen",
+            "age": null,
+            "url": "\/api\/person\/image\/117474613"
+          },
+          "legal_name": "Scentre Group"
+        }
+      },
+      "score": {
+        "data": {
+          "value": 3,
+          "income": 4,
+          "health": 4,
+          "past": 3,
+          "future": 0,
+          "total": 14
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total_records": 363,
+    "real_total_records": 363,
+    "state": "read",
+    "noResultIfLimit": false
+  }
+}
